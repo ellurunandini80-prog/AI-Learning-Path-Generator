@@ -81,15 +81,15 @@ streamlit run app.py
 
 ### Project Structure
 
-![Project Structure](screenshots/project_structure.png)
+![Project Structure](Screenshots/project_structure.png)
 
 ### User Input
 
-![User Input](screenshots/user_input.png)
+![User Input](Screenshots/user_input.png)
 
 ### Generated Learning Path
 
-![Generated Learning Path](screenshots/generated_result.png)
+![Generated Learning Path](Screenshots/generated_result.png)
 
 ## 🎯 Example Use Cases
 
